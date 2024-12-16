@@ -2,57 +2,88 @@
   "projects": [
     {
       "name": "News site",
-      "image": "",
+      "text": "The football news website is a dynamic platform designed to deliver real-time updates, match highlights, and in-depth analyses, keeping fans informed and engaged.",
+      "image": "news",
       "tags": [
-        "HTML5",
-        "CSS3"
+        "HTML",
+        "CSS"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://fotbollsnyheter.netlify.app/",
+      "github": "https://github.com/awickzell/technigo-project-news-site.git"
     },
     {
       "name": "Business site",
-      "image": "",
+      "text": "The gym is a modern fitness facility equipped with state-of-the-art equipment, offering a variety of workout programs and personal training services to help individuals achieve their health and fitness goals.",
+      "image": "business",
       "tags": [
-        "HTML5",
-        "CSS3"
+        "HTML",
+        "CSS"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://starkgym.netlify.app/",
+      "github": "https://github.com/awickzell/technigo-project-business-site.git"
     },
     {
       "name": "Pizzabot",
-      "image": "",
+      "text": "The pizza bot is an AI-powered ordering system that allows users to easily customize and place food orders, providing a seamless and efficient dining experience.",
+      "image": "pizza",
       "tags": [
-        "HTML5",
-        "CSS3",
         "JavaScript"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://arvidsfastpizza.netlify.app/",
+      "github": "https://github.com/awickzell/technigo-project-pizzabot.git"
     },
     {
       "name": "Library",
-      "image": "",
+      "text": "The library website is an intuitive platform that offers easy access to a wide range of books, digital resources, and services, enhancing the user experience for readers and researchers alike.",
+      "image": "library",
       "tags": [
-        "HTML5",
-        "CSS3",
+        "HTML",
+        "CSS",
         "JavaScript"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://arvidslibrary.netlify.app/",
+      "github": "https://github.com/awickzell/technigo-project-library.git"
     },
     {
       "name": "Weather app",
-      "image": "",
+      "text": "The weather app is an intuitive tool that provides real-time forecasts, detailed weather conditions, and personalized alerts, ensuring users stay informed about the weather wherever they are.",
+      "image": "weather",
       "tags": [
-        "HTML5",
-        "CSS3",
+        "HTML",
+        "CSS",
         "JavaScript",
         "APIs"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://cloudy-with-a-chance-of-arvid.netlify.app/",
+      "github": "https://github.com/awickzell/technigo-project-weather-app.git"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Code",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "GitHub"
+      ]
+    },
+    {
+      "category": "Toolbox",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Premiere Pro"
+      ]
+    },
+    {
+      "category": "More",
+      "skills": [
+        "Teamwork",
+        "Communication",
+        "PR"
+      ]
     }
   ]
 }

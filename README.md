@@ -22,3 +22,8 @@ The command below is a combination of installing dependencies, opening up the pr
 ```bash
 npm i && code . && npm run dev
 ```
+Uppgiften gick ut på att bygga en portfolio utifrån en mall som jag fick tilldelad mig.
+
+Jag började med att be ChatGPT skapa grunden till ett projekt. Sedan anpasade jag koden utifrån mina specifika behov och det resultat jag ville uppnå. Jag fick testa på nya saker jag aldrig tidigare gjort, exempelvis få varannat projekt att byta sida (höger/vänster). Jag exprimenterade även med olika utseenden på sidan, men i slutändan valde jag att köra på en minimalistisk layout. Värt att notera är att texterna inte är speciellt genomtänkta, utan bara geniriskt producerade för att kunna slutföra uppgiften. 
+
+https://arvidwickzellportfolio.netlify.app/
